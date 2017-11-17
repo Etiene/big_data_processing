@@ -1,2 +1,2 @@
-# big_data_processing
+# Big data processing
 Coursework 1 for QMUL module
